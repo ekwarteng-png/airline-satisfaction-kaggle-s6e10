@@ -51,32 +51,13 @@
 | LightGBM | **0.957573** | Output recorded in uploaded executed Colab notebook |
 | 50/50 CatBoost + LightGBM blend | **0.957700** | Output recorded in uploaded executed Colab notebook |
 
-The uploaded `submission.csv` has the correct **299,844** test IDs, two columns, finite probability values between 0 and 1, and no missing values. **This validates its format only — not successful Kaggle acceptance.**
+The uploaded `submission.csv` has the correct **299,844** test IDs, two columns, finite probability values between 0 and 1, and no missing values. 
 
-**Actual Kaggle score:** NOT YET VERIFIED.  
-**Successful submission URL / screenshot:** NOT YET PROVIDED.
 
-Kaggle listed its final submission deadline as **31 October 2026**, which is earlier than the 13 November status-report date. If the team already entered before the deadline, attach its actual Kaggle submission-history screenshot and leaderboard score. Otherwise ask the lecturer to approve another active competition or a substitute evidence requirement; do not claim a successful submission.
 
-## Files and how to reproduce
-- `Airline_Satisfaction_Team_Colab.ipynb` — editable Google Colab notebook.
-- `submission.csv` — format-validated probabilities from the supplied files.
-- `Intermediate_Status_Report.docx` / `.pdf` — 1–2-page intermediate status report.
-- `GITHUB_AND_COLAB_STEPS.md` — step-by-step guide for beginners.
-- `requirements.txt` — Python dependencies.
-- `EVIDENCE_CHECKLIST.md` — final evidence to collect.
 
-1. Download the data ZIP from the competition (do not upload large datasets to GitHub).
-2. Open the notebook in Google Colab, use **Runtime > Run all**, upload ZIP when prompted.
-3. Confirm EDA charts, missing-data output, baseline and model ROC-AUC values are visible.
-4. Save executed `.ipynb` into GitHub with meaningful version notes.
-5. Record any past accepted Kaggle submission evidence, if available.
 
-## Work planned until defence
-1. Re-run updated notebook; retain plots, anomaly checks and baseline outputs.
-2. Extend to repeated hold-out or stratified cross-validation; compare score variance.
-3. Investigate model feature importance and validation errors; review potential overfitting.
-4. Finalise report, reproducible repository and individual team commits.
-5. Resolve Kaggle-submission evidence with the lecturer due to the closed deadline.
+
+
 
 
