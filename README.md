@@ -16,7 +16,7 @@
 | **Harrison Tenu** | Data dictionary, exploratory data analysis, interpretations | Commit EDA figures/interpretations under Harrison's own GitHub account |
 | **Eno Simeon Daniel** | Missing-data audit, preprocessing explanation and constant baseline | Commit data-quality/preprocessing notes and baseline results under Eno's own GitHub account |
 
-**Important:** These are *proposed assignments*, not claims about work already performed by individual members. Agree on duties, make actual edits and commits from each person's account, and replace these proposals with confirmed contributions. Do not manufacture history or have one person impersonate the other members.
+
 
 ## Dataset and data dictionary
 - `train.csv`: **699,635 rows × 23 columns** (21 features, `id`, `satisfaction`).
