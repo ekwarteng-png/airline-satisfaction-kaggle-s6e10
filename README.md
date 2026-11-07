@@ -79,4 +79,4 @@ Kaggle listed its final submission deadline as **31 October 2026**, which is ear
 4. Finalise report, reproducible repository and individual team commits.
 5. Resolve Kaggle-submission evidence with the lecturer due to the closed deadline.
 
-*Data are synthetic competition samples; they should not be represented as a real-world passenger survey.*
+
